@@ -1,0 +1,130 @@
+{
+  "posts": [
+    {
+      "jobId": "job-2026-11-23-git",
+      "packageId": "git-command-mastery",
+      "scheduledFormat": "pdf",
+      "image": "images/git-command-mastery/git-command-mastery.png",
+      "carousel": "carousels/git-command-mastery/git-command-mastery.pdf",
+      "slides": [
+        "carousels/git-command-mastery/slides/1.png",
+        "carousels/git-command-mastery/slides/2.png",
+        "carousels/git-command-mastery/slides/3.png",
+        "carousels/git-command-mastery/slides/4.png",
+        "carousels/git-command-mastery/slides/5.png",
+        "carousels/git-command-mastery/slides/6.png",
+        "carousels/git-command-mastery/slides/7.png",
+        "carousels/git-command-mastery/slides/8.png"
+      ],
+      "video": "videos/git-command-mastery/git-command-mastery.mp4"
+    },
+    {
+      "jobId": "job-2026-11-24-terraform",
+      "packageId": "terraform-platform-upgrades",
+      "scheduledFormat": "png",
+      "image": "images/terraform-platform-upgrades/terraform-platform-upgrades.png",
+      "carousel": "carousels/terraform-platform-upgrades/terraform-platform-upgrades.pdf",
+      "slides": [
+        "carousels/terraform-platform-upgrades/slides/1.png",
+        "carousels/terraform-platform-upgrades/slides/2.png",
+        "carousels/terraform-platform-upgrades/slides/3.png",
+        "carousels/terraform-platform-upgrades/slides/4.png",
+        "carousels/terraform-platform-upgrades/slides/5.png",
+        "carousels/terraform-platform-upgrades/slides/6.png",
+        "carousels/terraform-platform-upgrades/slides/7.png",
+        "carousels/terraform-platform-upgrades/slides/8.png"
+      ],
+      "video": "videos/terraform-platform-upgrades/terraform-platform-upgrades.mp4"
+    },
+    {
+      "jobId": "job-2026-11-26-cicd",
+      "packageId": "cicd-release-automation",
+      "scheduledFormat": "mp4",
+      "image": "images/cicd-release-automation/cicd-release-automation.png",
+      "carousel": "carousels/cicd-release-automation/cicd-release-automation.pdf",
+      "slides": [
+        "carousels/cicd-release-automation/slides/1.png",
+        "carousels/cicd-release-automation/slides/2.png",
+        "carousels/cicd-release-automation/slides/3.png",
+        "carousels/cicd-release-automation/slides/4.png",
+        "carousels/cicd-release-automation/slides/5.png",
+        "carousels/cicd-release-automation/slides/6.png",
+        "carousels/cicd-release-automation/slides/7.png",
+        "carousels/cicd-release-automation/slides/8.png"
+      ],
+      "video": "videos/cicd-release-automation/cicd-release-automation.mp4"
+    },
+    {
+      "jobId": "job-2026-11-28-k8s",
+      "packageId": "kubernetes-troubleshooting",
+      "scheduledFormat": "pdf",
+      "image": "images/kubernetes-troubleshooting/kubernetes-troubleshooting.png",
+      "carousel": "carousels/kubernetes-troubleshooting/kubernetes-troubleshooting.pdf",
+      "slides": [
+        "carousels/kubernetes-troubleshooting/slides/1.png",
+        "carousels/kubernetes-troubleshooting/slides/2.png",
+        "carousels/kubernetes-troubleshooting/slides/3.png",
+        "carousels/kubernetes-troubleshooting/slides/4.png",
+        "carousels/kubernetes-troubleshooting/slides/5.png",
+        "carousels/kubernetes-troubleshooting/slides/6.png",
+        "carousels/kubernetes-troubleshooting/slides/7.png",
+        "carousels/kubernetes-troubleshooting/slides/8.png"
+      ],
+      "video": "videos/kubernetes-troubleshooting/kubernetes-troubleshooting.mp4"
+    },
+    {
+      "jobId": "job-2026-12-21-copilot",
+      "packageId": "github-copilot-for-devops",
+      "scheduledFormat": "pdf",
+      "image": "images/github-copilot-for-devops/github-copilot-for-devops.png",
+      "carousel": "carousels/github-copilot-for-devops/github-copilot-for-devops.pdf",
+      "slides": [
+        "carousels/github-copilot-for-devops/slides/1.png",
+        "carousels/github-copilot-for-devops/slides/2.png",
+        "carousels/github-copilot-for-devops/slides/3.png",
+        "carousels/github-copilot-for-devops/slides/4.png",
+        "carousels/github-copilot-for-devops/slides/5.png",
+        "carousels/github-copilot-for-devops/slides/6.png",
+        "carousels/github-copilot-for-devops/slides/7.png",
+        "carousels/github-copilot-for-devops/slides/8.png"
+      ],
+      "video": "videos/github-copilot-for-devops/github-copilot-for-devops.mp4"
+    },
+    {
+      "jobId": "job-2026-12-28-release",
+      "packageId": "end-to-end-release-engineering",
+      "scheduledFormat": "png",
+      "image": "images/end-to-end-release-engineering/end-to-end-release-engineering.png",
+      "carousel": "carousels/end-to-end-release-engineering/end-to-end-release-engineering.pdf",
+      "slides": [
+        "carousels/end-to-end-release-engineering/slides/1.png",
+        "carousels/end-to-end-release-engineering/slides/2.png",
+        "carousels/end-to-end-release-engineering/slides/3.png",
+        "carousels/end-to-end-release-engineering/slides/4.png",
+        "carousels/end-to-end-release-engineering/slides/5.png",
+        "carousels/end-to-end-release-engineering/slides/6.png",
+        "carousels/end-to-end-release-engineering/slides/7.png",
+        "carousels/end-to-end-release-engineering/slides/8.png"
+      ],
+      "video": "videos/end-to-end-release-engineering/end-to-end-release-engineering.mp4"
+    },
+    {
+      "jobId": "job-2027-01-04-eks",
+      "packageId": "eks-platform-modernization",
+      "scheduledFormat": "png",
+      "image": "images/eks-platform-modernization/eks-platform-modernization.png",
+      "carousel": "carousels/eks-platform-modernization/eks-platform-modernization.pdf",
+      "slides": [
+        "carousels/eks-platform-modernization/slides/1.png",
+        "carousels/eks-platform-modernization/slides/2.png",
+        "carousels/eks-platform-modernization/slides/3.png",
+        "carousels/eks-platform-modernization/slides/4.png",
+        "carousels/eks-platform-modernization/slides/5.png",
+        "carousels/eks-platform-modernization/slides/6.png",
+        "carousels/eks-platform-modernization/slides/7.png",
+        "carousels/eks-platform-modernization/slides/8.png"
+      ],
+      "video": "videos/eks-platform-modernization/eks-platform-modernization.mp4"
+    }
+  ]
+}
